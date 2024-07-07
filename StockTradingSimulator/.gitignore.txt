@@ -1,0 +1,20 @@
+# Ignore Visual Studio temporary files, build results, and
+# User-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore other files and directories
+node_modules/
+dist/
+*.log
+*.tmp
+
+# Ignore configuration files
+appsettings.Development.json
